@@ -1,0 +1,34 @@
+# Flutter/Dart
+Flutter_Dashoard_EcoFarmBot/build/
+Flutter_Dashoard_EcoFarmBot/.dart_tool/
+Flutter_Dashoard_EcoFarmBot/.packages
+Flutter_Dashoard_EcoFarmBot/.pub-cache/
+Flutter_Dashoard_EcoFarmBot/.pub/
+Flutter_Dashoard_EcoFarmBot/ios/Pods/
+Flutter_Dashoard_EcoFarmBot/ios/.symlinks/
+Flutter_Dashoard_EcoFarmBot/ios/Flutter/Flutter.framework/
+Flutter_Dashoard_EcoFarmBot/ios/Flutter/Flutter.podspec
+
+# Python
+computer_vision/__pycache__/
+computer_vision/venv/
+computer_vision/.env
+*.pyc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
