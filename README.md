@@ -1,6 +1,6 @@
 # EcoFarmBot: Edge-Vision Agricultural Rover 🚜
 
-[![Watch the Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+![Demo Video](https://img.shields.io/badge/Demo_Video-Coming_Soon...-FFD700?style=for-the-badge&logo=youtube)[![Watch the Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
 
 ## Overview
 EcoFarmBot is a hardware-software integrated robotics project designed to provide offline, real-time agricultural monitoring and crop health analysis. Operating entirely on a private local edge network, the rover navigates crop rows, aggregates environmental data, and utilizes a custom computer vision pipeline to diagnose plant health and detect weeds without requiring cloud computing.
